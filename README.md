@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/dayogreats/f8d6d253-36f1-4060-bfdf-420e4edbedb7/bc1daa5a-0d2f-4460-aff0-a44e009dd0e2/_apis/work/boardbadge/32f438c1-b650-41f6-b868-b4571b3755ca)](https://dev.azure.com/dayogreats/f8d6d253-36f1-4060-bfdf-420e4edbedb7/_boards/board/t/bc1daa5a-0d2f-4460-aff0-a44e009dd0e2/Microsoft.RequirementCategory)
 - 👋 Hi, I’m @dayogreats
 - 👀 I am a self-starter and an ambitious person driven by a curiosity for knowledge to continually deliver values in whatever i do. 
 - 💞️ I sincerely love science and technologies, products, people and policy it produces; it is just a matter of time, I will check it out!
